@@ -11,4 +11,4 @@ function clearHighscore() {
 window.localStorage.removeItem("Highscores")
 }
 
-document.getElementById("clear").onclick = clearHighscore;
+document.getElementById("#clear").onclick = clearHighscore;
